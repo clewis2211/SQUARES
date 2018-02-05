@@ -1,0 +1,11 @@
+.square{
+    height: 10em;
+    width: 10em;
+    color: white;
+    background-color: burlywood;
+    float: left;
+    margin-right: 3em;
+    margin-top: 3em;
+    text-align: center;
+    line-height: 15em;
+}

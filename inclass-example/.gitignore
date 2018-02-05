@@ -1,0 +1,5 @@
+node_modules
+.vscode
+.sass-cache
+styles.scss.map
+package-lock.json
